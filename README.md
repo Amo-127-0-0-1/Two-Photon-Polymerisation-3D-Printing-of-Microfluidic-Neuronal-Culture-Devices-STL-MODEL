@@ -3,6 +3,9 @@
 
 This repository contains the stereolithography (STL) file that describes the surface geometry of the three-dimensional micron scale mold for preparation of modular neuronal culture device, as described in JoVe publication **"Two-Photon Polymerisation 3D Printing of Microfluidic Neuronal Culture Devices"**. The design is provided in both `ASCII` and `binary` formats. 
 
+
+![3D render](https://raw.githubusercontent.com/Amo-127-0-0-1/Two-Photon-Polymerisation-3D-Printing-of-Microfluidic-Neuronal-Culture-Devices-STL-MODEL/master/FIGUREs/img.png)
+
 ### License 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
